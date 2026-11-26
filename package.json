@@ -1,0 +1,1 @@
+{"name":"el-farsante","private":true,"type":"module","scripts":{"test":"node --test test/*.test.js","web":"python -m http.server 8777"}}
